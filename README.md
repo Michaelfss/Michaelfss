@@ -6,6 +6,6 @@
 
 <div>
 <a href="https://github.com/Michaelfss">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelfss&layout=compact&langs_count=7&theme=dark&show"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michaelfss&theme=dark&show_icons=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelfss&layout=compact&langs_count=7&theme=dark&show"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michaelfss&theme=dark&show_icons=true"/>
 </div>
