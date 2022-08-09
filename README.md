@@ -9,7 +9,13 @@
 <a href="https://github.com/Michaelfss">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michaelfss&theme=dark&show_icons=true"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelfss&layout=compact&langs_count=7&theme=dark&show"/>
+      
 </div>
+
+<img  align="center"  height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img  align="center"  height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img  align="center"  height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+                   
 
 ### Contatos:
 
